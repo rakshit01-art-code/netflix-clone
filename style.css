@@ -30,7 +30,7 @@ body {
   left: -10%;
   width: 120%;
   height: 120%;
-  background-image: url('../photos/photo1.jpg');
+  background-image: url('photos/photo1.jpg');
   background-size: cover;
   background-position: center;
   transform: rotate(-3deg);
